@@ -1,7 +1,7 @@
 {
   "name": "compo-markdown",
   "main": "lib/markdown.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "authors": [
     "Alex Kit <alex.kit@atmajs.com>"
   ],

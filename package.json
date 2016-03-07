@@ -1,6 +1,6 @@
 {
   "name": "compo-markdown",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "lib/markdown.js",
   "scripts": {
